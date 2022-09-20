@@ -24,7 +24,7 @@
         "enqueue"
     ],
     "require": {
-        "php": "^7.1|^7.2",
+        "php": ">=7.1",
         "prooph/common" : "^4.1",
         "prooph/service-bus" : "^6.0",
         "enqueue/simple-client": "^0.10"
